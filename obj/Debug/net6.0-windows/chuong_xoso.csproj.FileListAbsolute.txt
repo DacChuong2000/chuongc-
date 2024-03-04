@@ -1,0 +1,91 @@
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.exe
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.deps.json
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.runtimeconfig.json
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.dll
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.pdb
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.Form1.resources
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.AssemblyInfo.cs
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.dll
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\refint\chuong_xoso.dll
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.pdb
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.genruntimeconfig.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\ref\chuong_xoso.dll
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.exe
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.deps.json
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.runtimeconfig.json
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.dll
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.pdb
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.Form1.resources
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.AssemblyInfo.cs
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.dll
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\refint\chuong_xoso.dll
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.pdb
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.genruntimeconfig.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\ref\chuong_xoso.dll
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.Properties.Resources.resources
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.exe
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.deps.json
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.runtimeconfig.json
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.dll
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.pdb
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.Form1.resources
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.Properties.Resources.resources
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.AssemblyInfo.cs
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.dll
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\refint\chuong_xoso.dll
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.pdb
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.genruntimeconfig.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\ref\chuong_xoso.dll
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.Form2.resources
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.exe
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.deps.json
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.runtimeconfig.json
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.dll
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.pdb
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.Form1.resources
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.Form2.resources
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.Properties.Resources.resources
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.AssemblyInfo.cs
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.dll
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\refint\chuong_xoso.dll
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.pdb
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.genruntimeconfig.cache
+C:\Users\PC\source\repos\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\ref\chuong_xoso.dll
+C:\Users\MSI\Downloads\chuong_xoso (2)\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.exe
+C:\Users\MSI\Downloads\chuong_xoso (2)\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.deps.json
+C:\Users\MSI\Downloads\chuong_xoso (2)\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.runtimeconfig.json
+C:\Users\MSI\Downloads\chuong_xoso (2)\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.dll
+C:\Users\MSI\Downloads\chuong_xoso (2)\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\bin\Debug\net6.0-windows\chuong_xoso.pdb
+C:\Users\MSI\Downloads\chuong_xoso (2)\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.Form1.resources
+C:\Users\MSI\Downloads\chuong_xoso (2)\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.Form2.resources
+C:\Users\MSI\Downloads\chuong_xoso (2)\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.Properties.Resources.resources
+C:\Users\MSI\Downloads\chuong_xoso (2)\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.csproj.GenerateResource.cache
+C:\Users\MSI\Downloads\chuong_xoso (2)\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Downloads\chuong_xoso (2)\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.AssemblyInfoInputs.cache
+C:\Users\MSI\Downloads\chuong_xoso (2)\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.AssemblyInfo.cs
+C:\Users\MSI\Downloads\chuong_xoso (2)\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Downloads\chuong_xoso (2)\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.dll
+C:\Users\MSI\Downloads\chuong_xoso (2)\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\refint\chuong_xoso.dll
+C:\Users\MSI\Downloads\chuong_xoso (2)\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.pdb
+C:\Users\MSI\Downloads\chuong_xoso (2)\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\chuong_xoso.genruntimeconfig.cache
+C:\Users\MSI\Downloads\chuong_xoso (2)\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\chuong_xoso\obj\Debug\net6.0-windows\ref\chuong_xoso.dll

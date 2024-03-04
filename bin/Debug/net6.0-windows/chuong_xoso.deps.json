@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "chuong_xoso/1.0.0": {
+        "runtime": {
+          "chuong_xoso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chuong_xoso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
